@@ -13,7 +13,7 @@ print(10 % 3)
 # 2 Remainder 4
 print(18%7)
 
-# 2 no ramainder
+# 2 no ramainder 
 print(4%2)
 
 print('Printing only even number from the list1')
