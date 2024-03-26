@@ -11,7 +11,7 @@ print(lst)
 
 # append() allows us to add element to the end of a list:
 lst.append(6). 
-print(lst)
+print(lst) 
 
 #count() --> check how many times 2 shows us in the list
 # i.e, It calculate total occurence of a given element of List.
