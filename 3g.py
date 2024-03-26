@@ -4,7 +4,7 @@
         and has players guess the number. The rules are:
 
         If a player's guess is less than 1 or greater
-        than 100, 
+        than 100,  
         say "OUT OF BOUNDS"
         On a player's first turn, if their guess is
         within 10 of the number, return "WARM!"
