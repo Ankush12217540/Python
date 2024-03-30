@@ -15,7 +15,7 @@ print(my_dict['key1'])
 print(my_dict)
 # Set the object equal to itself minus 123
 my_dict['key1'] -=123
-print(my_dict['key1'])
+print(my_dict['key1']). 
 
 #creating a new dictonary
 d={}
@@ -25,16 +25,16 @@ d['answer']=42
 print(d)
 
 #NESTING WITH DICTONARIES
-# Dictonaries nested inside a dictonary nested inside a dictonary
+# Dictonaries nested inside a dictonary nested inside a dictonary 
 d={'key1':{'nestkey':{'subnestkey':'value'}}}
 #keep calling keys
-print(d['key1']['nestkey']['subnestkey'])
+print(d['key1']['nestkey']['subnestkey']) 
 
 #A few Dictionary Methods
-#create a typical dictionary
-d={'key1':1,'key2':2,'key3':3}
+#create a typical dictionary 
+d={'key1':1,'key2':2,'key3':3} 
 #method to return a list of all keys 
-print(d.keys())
+print(d.keys()) 
 print(d.values())
 #method to return tuples of all items (we'll learn abot=ut tuples soon)
-print(d.items())
+print(d.items()) 
