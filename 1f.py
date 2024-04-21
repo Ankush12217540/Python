@@ -8,7 +8,7 @@ print(my_dict['key2'])
 my_dict={'key1':123,'key2':[12,23,33],'key3':['item0','item1','item2']}
 print(my_dict['key3'])
 #can call an index on that value
-print(my_dict['key3'][0])
+print(my_dict['key3'][0]) 
 #we  affect the value of a keys as well. for instances
 my_dict['key1']=my_dict['key1']-123
 print(my_dict['key1'])
