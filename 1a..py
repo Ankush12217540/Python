@@ -4,7 +4,7 @@ print(2+1)
 #substraction
 print(2-1)
 
-#Multiplication
+#Multiplication 
 print(2*2)
 
 #Division
