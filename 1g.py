@@ -3,7 +3,7 @@ t=(1,2,3)
 #check len just like a list
 print(len(t))
 #can also mix object types
-t=('one',2)
+t=('one',2) 
 print(t)
 #using indexing just like we did in list
 print(t[0])
