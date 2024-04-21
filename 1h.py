@@ -5,7 +5,7 @@ x=set()
 # we add to sets with the add() method
 x.add(1)
 print(x)
-# adding a different element
+# adding a different element 
 x.add(2)
 print(x)
 #adding the same element
