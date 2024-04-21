@@ -6,7 +6,7 @@ print(a)
 a='This is also a string'
 print(a) 
 
-#We can also use doubles quote
+#We can also use doubles quote 
 a="String built with doubles quote"
 print(a)
 
