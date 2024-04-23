@@ -13,7 +13,7 @@ print(a)
 #Be careful with doubles quote
 #  a='I'm using single quote, but this wil create an error'  --->Syntax error
 a="Now I'm ready to use single quotes inside a string!"
-print(a)
+print(a) 
 
 # we can use print statement to print a string
 print('Hellow world1')
