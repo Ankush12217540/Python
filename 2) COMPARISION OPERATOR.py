@@ -4,7 +4,7 @@
 
 '''Table of Comparison Operators
 In the table below, a=3 and b=4.
-
+ 
 Operator	Description	Example
 ==	If the values of two operands are equal, then the condition becomes true.	(a == b) is not true.
 !=	If values of two operands are not equal, then condition becomes true.	(a != b) is true. 
