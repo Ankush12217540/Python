@@ -8,7 +8,7 @@ print(t)
 #using indexing just like we did in list
 print(t[0])
 #slicing just like list
-print(t[-1])
+print(t[-1]) 
 
 # Basic Tuples Methods
 #Use .index to enter a value and return the index
