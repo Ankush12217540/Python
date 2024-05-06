@@ -7,7 +7,7 @@ x.add(1)
 print(x)
 # adding a different element 
 x.add(2)
-print(x)
+print(x) 
 #adding the same element
 x.add(1)
 print(x)
