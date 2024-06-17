@@ -14,7 +14,7 @@ print(3/2)
 print(7//4)
 
 #power
-print(2**3)
+print(2**3) 
 
 #Can also do root this way
 print(4**0.5)
